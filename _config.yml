@@ -19,12 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Software architect roadmap
+subtitle: "Opinionated roadmap of tangible technologies to become software (IT or solution) architect. Clickable: One reliable source for each technology."
 email: cmaxmio@gmail.com
+keywords: "architect, roadmap, architecture, solution architect, IT architect, data, TOGAF"
 description: "Opinionated roadmap of tangible technologies to become software (IT or solution) architect. Clickable: One reliable source for each technology."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.cmaxm.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cmaxmio
 github_username:  cmaxm
+author: https://github.com/cmaxm
 
 domain: www.cmaxm.dev       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://www.cmaxm.dev
