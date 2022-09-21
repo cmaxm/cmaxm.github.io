@@ -6,4 +6,13 @@ layout: home
 ---
 
 
-test special
+## Architect roadmap
+
+**Opinioned** roadmap of **concrete** technologies to become software (IT or solution) architect. Clickable: **One reliable source** for each technology.
+
+![Architect roadmap](./sources/Architecture.drawio.svg)
+
+Based on: https://github.com/kamranahmedse/developer-roadmap
+
+
+
