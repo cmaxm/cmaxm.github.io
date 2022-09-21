@@ -27,7 +27,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.cmaxm.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cmaxmio
 github_username:  cmaxm
-author: https://github.com/cmaxm
+author: "https://github.com/cmaxm"
 
 domain: www.cmaxm.dev       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://www.cmaxm.dev
@@ -36,6 +36,12 @@ url: https://www.cmaxm.dev
 theme: minima
 remote_theme: cmaxm/beautiful-jekyll
 cloudflare_analytics: 83674ebb26c646e6b6ad43354e1699d4
+
+social-network-links:
+  email: "cmaxmio@gmail.com"
+  github: cmaxm
+  twitter: cmaxmio
+
 
 plugins:
   - jekyll-feed
