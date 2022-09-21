@@ -33,13 +33,13 @@ domain: cmaxm.github.io       # if you want to force HTTPS, specify the domain w
 url: https://cmaxm.github.io  
 
 # Build settings
-theme: beautiful-jekyll
+theme: minima
 remote_theme: daattali/beautiful-jekyll@5.0.0
 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
-
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
