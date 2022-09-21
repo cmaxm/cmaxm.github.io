@@ -10,7 +10,7 @@ layout: home
 
 **Opinionated** roadmap of **tangible** technologies to become software (IT or solution) architect. Clickable: **One reliable source** for each technology.
 
-![Architect roadmap](./sources/Architecture.drawio.svg)
+{% include roadmap.html %}
 
 Based on: [https://github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
