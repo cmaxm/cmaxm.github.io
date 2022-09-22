@@ -1,10 +1,11 @@
 ---
 layout: page
+title: The List
 subtitle: "Best books (and other sources) money can buy. You will gain the most comprehensive insight into all relevant technologies. Caution: you will need months / years to study."
 ---
 
 - CS
- - Algorithms: https://www.bookdepository.com/Introduction-Algorithms-fourth-edition-Thomas-H-Cormen/9780262046305
+ - Algorithms: [https://www.bookdepository.com/Introduction-Algorithms-fourth-edition-Thomas-H-Cormen/9780262046305](https://www.bookdepository.com/Introduction-Algorithms-fourth-edition-Thomas-H-Cormen/9780262046305)
 
 - Code
   - https://www.bookdepository.com/Clean-Code-Robert-Martin/9780132350884
