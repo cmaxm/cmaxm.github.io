@@ -59,6 +59,7 @@ subtitle: "Best books (and other sources) money can buy. You will gain the most 
 - Enterprise software
   - SAP - [https://help.sap.com/docs/](https://help.sap.com/docs/)
   - SalesForce - [https://www.salesforce.com/eu/products/what-is-salesforce/](https://www.salesforce.com/eu/products/what-is-salesforce/)
+
 - Data
   - [https://www.bookdepository.com/Designing-Data-Intensive-Applications/9781449373320](https://www.bookdepository.com/Designing-Data-Intensive-Applications/9781449373320)
   - PostgreSQL - [https://www.bookdepository.com/Fundamentals-Database-Systems-Global-Edition-Ramez-Elmasri/9781292097619](https://www.bookdepository.com/Fundamentals-Database-Systems-Global-Edition-Ramez-Elmasri/9781292097619)
@@ -66,6 +67,7 @@ subtitle: "Best books (and other sources) money can buy. You will gain the most 
   - TensorFlow - [https://www.bookdepository.com/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-TensorFlow-Aur%C3%A9lien-G%C3%A9ron/9781492032649](https://www.bookdepository.com/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-TensorFlow-Aur%C3%A9lien-G%C3%A9ron/9781492032649)
   - MongoDB - [https://www.bookdepository.com/Database-Internals-Alex-Petrov/9781492040347](https://www.bookdepository.com/Database-Internals-Alex-Petrov/9781492040347)
   - ElasticSearch - [https://www.bookdepository.com/Elasticsearch---The-Definitive-Guide-Clinton-Gormley/9781449358549](https://www.bookdepository.com/Elasticsearch---The-Definitive-Guide-Clinton-Gormley/9781449358549)
+  
 - Security:
   - OWASP - [https://owasp.org/www-project-top-ten/](https://owasp.org/www-project-top-ten/)
   - SSI - [https://www.bookdepository.com/Self-Sovereign-Identity-Decentralized-digital-identity-verifiable-credentials-Alex-Preukschat/9781617296598?ref=grid-view&qid=1663832442353&sr=1-1](https://www.bookdepository.com/Self-Sovereign-Identity-Decentralized-digital-identity-verifiable-credentials-Alex-Preukschat/9781617296598?ref=grid-view&qid=1663832442353&sr=1-1)
