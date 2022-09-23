@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The List
+title: The most influential books in the history of software engineering
 subtitle: "Best books (and other sources) money can buy. You will gain the most comprehensive insight into all relevant technologies. Caution: you will need months/years to study."
 ---
 
