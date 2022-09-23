@@ -53,7 +53,7 @@ subtitle: "Best books (and other sources) money can buy. You will gain the most 
 
 - Frameworks
   - TOGAF: [https://publications.opengroup.org/standards/togaf/c220](https://publications.opengroup.org/standards/togaf/c220)
-  - Archimate: [https://publications.opengroup.org/standards/c224m](https://publications.opengroup.org/standards/c224m)
+  - Archimate: [https://publications.opengroup.org/standards/archimate/specifications/c197](https://publications.opengroup.org/standards/archimate/specifications/c197)
   - UML: [https://www.bookdepository.com/UML-Distilled-Martin-Fowler/9780321193681](https://www.bookdepository.com/UML-Distilled-Martin-Fowler/9780321193681)
 
 - Enterprise software
