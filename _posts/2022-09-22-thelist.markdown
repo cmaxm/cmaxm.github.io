@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The List
-subtitle: "Best books (and other sources) money can buy. You will gain the most comprehensive insight into all relevant technologies. Caution: you will need months / years to study."
+subtitle: "Best books (and other sources) money can buy. You will gain the most comprehensive insight into all relevant technologies. Caution: you will need months/years to study."
 ---
 
 - CS

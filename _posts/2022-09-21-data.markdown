@@ -3,13 +3,29 @@ layout: page
 subtitle: "To store permanently (even though a computer is restarted). To send over the network. To look for information. To analyze and visualize."
 ---
 
+## What you need to know:
+1. Basics of relational algebra
+1. Standard Relational Databases RDBMS (try PostgreSQL, Oracle, MS Access)
+1. DML, DDL, and all other aspects of SQL 
+1. NoSQL concepts (MongoDB, Redis)
+1. OLAP and DWH ideas
+1. Theories of distributed databases, consistency techniques
+1. Standard data handling (Apache Airflow, Parquet, JSON, FTP, ETL/ELT)
+1. Data streaming and real-time concepts (Kafka, AVRO)
+1. Big Data handling (Hadoop, Apache Spark)
+1. Data Analytics (Jupyter. BI - Tableau)
+1. Data protection theories (data management, data lineage, homomorphic encryption, tokenization, ...)
+1. Python + basic data handling libraries (NumPy, Pandas, Matplotlib)
+1. Basic machine learning (Keras, TensorFlow)
+
+
 ## Books not to miss
-### Elementary must books
+### Elementary books
  - **Designing Data-Intensive Applications** by Martin Kleppmann [link](https://www.bookdepository.com/Designing-Data-Intensive-Applications-Martin-Kleppmann/9781449373320)
- - **Database Internals : A Deep-Dive Into How Distributed Data Systems Work** by Alex Petrov [link](https://www.bookdepository.com/Database-Internals-Alex-Petrov/9781492040347)
+ - **Database Internals: A Deep-Dive Into How Distributed Data Systems Work** by Alex Petrov [link](https://www.bookdepository.com/Database-Internals-Alex-Petrov/9781492040347)
  - **Fundamentals of Database Systems, Global Edition** by Ramez Elmasri and Shamkant Navathe [link](https://www.bookdepository.com/Fundamentals-Database-Systems-Global-Edition-Ramez-Elmasri/9781292097619)
 
  ### Analytics, big data, machine learning, BI
- - **Spark - The Definitive Guide : Big data processing made simple** by Bill Chambers and Matei Zaharia [link](https://www.bookdepository.com/Spark-Definitive-Guide-Bill-Chambers/9781491912218)
- - **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow : Concepts, Tools, and Techniques to Build Intelligent Systems** by Aurélien Géron [link](https://www.bookdepository.com/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-TensorFlow-Aur%C3%A9lien-G%C3%A9ron/9781492032649)
+ - **Spark - The Definitive Guide: Big data processing made simple** by Bill Chambers and Matei Zaharia [link](https://www.bookdepository.com/Spark-Definitive-Guide-Bill-Chambers/9781491912218)
+ - **Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems** by Aurélien Géron [link](https://www.bookdepository.com/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-TensorFlow-Aur%C3%A9lien-G%C3%A9ron/9781492032649)
 
