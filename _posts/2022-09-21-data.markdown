@@ -1,9 +1,8 @@
 ---
 layout: page
+title: What does a software architect need to know about data?
 subtitle: "To store permanently (even though a computer is restarted). To send over the network. To look for information. To analyze and visualize."
 ---
-
-## What does a software architect need to know about data?
 
 1. Basics of relational algebra
 1. Standard Relational Databases RDBMS (try PostgreSQL, Oracle, MS Access)
@@ -28,6 +27,7 @@ subtitle: "To store permanently (even though a computer is restarted). To send o
  - **Designing Data-Intensive Applications** by Martin Kleppmann [link](https://www.bookdepository.com/Designing-Data-Intensive-Applications-Martin-Kleppmann/9781449373320)
  - **Database Internals: A Deep-Dive Into How Distributed Data Systems Work** by Alex Petrov [link](https://www.bookdepository.com/Database-Internals-Alex-Petrov/9781492040347)
  - **Fundamentals of Database Systems, Global Edition** by Ramez Elmasri and Shamkant Navathe [link](https://www.bookdepository.com/Fundamentals-Database-Systems-Global-Edition-Ramez-Elmasri/9781292097619)
+
 
  ### Advanced
 
